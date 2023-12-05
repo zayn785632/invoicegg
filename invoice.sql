@@ -9,8 +9,8 @@ htp.p(' <div id="pos">
        
         </div>
         
-        <div class="gg1"> <p> Lalkhan bazar <br>
-                  Chottogram,Bangladesh 
+        <div class="gg1"> <p> ur address <br>
+                  ..,Bangladesh 
         <p>
                 
             </div>  <br> ');
